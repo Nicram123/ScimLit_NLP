@@ -35,7 +35,7 @@ This ensures all sequences have consistent shapes and vocabulary coverage.
 ### Example visualizations:
 
 - **Text length distribution**
-  <img width="621" height="376" alt="image" src="https://github.com/user-attachments/assets/c92da00d-fcf0-45d3-95bf-c5108d36bc84" />
+<img width="621" height="376" alt="image" src="https://github.com/user-attachments/assets/c92da00d-fcf0-45d3-95bf-c5108d36bc84" />
 
 - **Word frequency histogram**
 <img width="575" height="352" alt="image" src="https://github.com/user-attachments/assets/f38c2d6a-3513-4d35-bf69-98a51cc645fc" />
